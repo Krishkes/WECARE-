@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WECARE-/static/css/main.b20e42f7.css",
+    "main.js": "/WECARE-/static/js/main.f2c92a43.js",
+    "static/js/453.026bd83c.chunk.js": "/WECARE-/static/js/453.026bd83c.chunk.js",
+    "index.html": "/WECARE-/index.html",
+    "main.b20e42f7.css.map": "/WECARE-/static/css/main.b20e42f7.css.map",
+    "main.f2c92a43.js.map": "/WECARE-/static/js/main.f2c92a43.js.map",
+    "453.026bd83c.chunk.js.map": "/WECARE-/static/js/453.026bd83c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20e42f7.css",
+    "static/js/main.f2c92a43.js"
+  ]
+}
